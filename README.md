@@ -2,20 +2,6 @@
 
 This project is made for taking Survey for a product or procedure.
 
-## Screenshots
-
-![image](snips/snip1.jpg)
-
-![image](snips/snip2.jpg)
-
-![image](snips/snip3.jpg)
-
-![image](snips/snip4.jpg)
-
-![image](snips/snip5.jpg)
-
-![image](snips/snip6.jpg)
-
 ## Technology Stack
 
 - HTML
@@ -65,6 +51,20 @@ It also adds **active** class to body tag.
 #### loginButton.onclick()
 
 It removes **active** class which was along with **formBg** as well as from body tag.
+
+## Screenshots
+
+![image](snips/snip1.jpg)
+
+![image](snips/snip2.jpg)
+
+![image](snips/snip3.jpg)
+
+![image](snips/snip4.jpg)
+
+![image](snips/snip5.jpg)
+
+![image](snips/snip6.jpg)
 
 ## Postulation
 
