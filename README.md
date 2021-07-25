@@ -4,17 +4,17 @@ This project is made for taking Survey for a product or procedure.
 
 ## Screenshots
 
-![image](snips/snip1.png)
+![image](snips/snip1.jpg)
 
-![image](snips/snip2.png)
+![image](snips/snip2.jpg)
 
-![image](snips/snip3.png)
+![image](snips/snip3.jpg)
 
-![image](snips/snip4.png)
+![image](snips/snip4.jpg)
 
-![image](snips/snip5.png)
+![image](snips/snip5.jpg)
 
-![image](snips/snip6.png)
+![image](snips/snip6.jpg)
 
 ## Technology Stack
 
