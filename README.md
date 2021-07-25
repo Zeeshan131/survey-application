@@ -2,6 +2,20 @@
 
 This project is made for taking Survey for a product or procedure.
 
+## Screenshots
+
+![image](snips/snip1.png)
+
+![image](snips/snip2.png)
+
+![image](snips/snip3.png)
+
+![image](snips/snip4.png)
+
+![image](snips/snip5.png)
+
+![image](snips/snip6.png)
+
 ## Technology Stack
 
 - HTML
@@ -59,3 +73,21 @@ It is an underdevelopment project
 ## Motto
 
 To make a full fledged survey application
+
+## Appendix
+
+### Navigation
+
+Navigation tag contains a logo, some navigation links and a burger button.
+
+### Login and Sign Up
+
+This page contains a big container having two section- (1) Blue Background and (2) Form Background
+
+Blue Background contains either a decision to switch to login or to to sign up.
+
+Form Background containes Form according to the need
+
+### How to run
+
+Download and run in any browser with latest update.
